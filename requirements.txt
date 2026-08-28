@@ -1,0 +1,7 @@
+# Reproducible local environment: Python 3.11
+jupyterlab==4.4.4
+matplotlib==3.10.3
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.6.1
+tensorflow==2.15.1
